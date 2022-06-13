@@ -18,6 +18,10 @@
 • I can play More until I have a single penny or maybe I can Win or Maybe not.
 
 
+![2350968](https://user-images.githubusercontent.com/102814093/173278863-5acdd600-02bb-44c4-be86-7bce6e30bd7c.jpg)
+
+
+
 **Welcome Screen**
 
 ![Welcome Screen](https://user-images.githubusercontent.com/102814093/173277385-52247d22-281a-4d78-a391-a7e751fb739e.PNG)
